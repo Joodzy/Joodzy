@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Joodzy
+- 👀 I’m interested in game development
+- 🌱 I’m currently learning C and C#
+- 📫 How to reach me : wandrillejullien@gmail.com
